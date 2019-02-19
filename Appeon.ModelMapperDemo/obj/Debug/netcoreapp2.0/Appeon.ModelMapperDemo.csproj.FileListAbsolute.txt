@@ -1,0 +1,11 @@
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\bin\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.deps.json
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\bin\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.runtimeconfig.json
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\bin\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.runtimeconfig.dev.json
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\bin\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.dll
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\bin\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.pdb
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\obj\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.csprojResolveAssemblyReference.cache
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\obj\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.csproj.CoreCompileInputs.cache
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\obj\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.AssemblyInfoInputs.cache
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\obj\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.AssemblyInfo.cs
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\obj\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.dll
+E:\vss\PB.NET\NewDemo\saledemo2\trunk\Appeon.ModelMapperDemo\obj\Debug\netcoreapp2.0\Appeon.ModelMapperDemo.pdb
